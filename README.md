@@ -8,10 +8,16 @@
 </div>
 
 ## What is this?
-Sumobot is a sport in which two robots attempt to push each other out of a circle (from wiki). My team and I took part in this intra school Sumobot competition and achieved **3rd/4th placing** :). </br>
+Sumobot is a sport in which two autonomous robots attempt to push each other out of a circle (from wiki). Along with [Tishya](https://github.com/tishyakhanna97) and [Zhe Xuan](https://github.com/Raikonen), we took part in this intra school Sumobot competition and achieved **3rd/4th placing amongst over 40 teams** :thumbsup:. </br>
 
 Here's a picture of our robot! (P.S. that's its championship belt.) </br>
 <img src="Sumobot.jpg" width="400"/>
+
+## Features include
+- Attack-Search-Defend modes
+- Detection of human
+- Gear-Down (for torque)
+- Low centre of gravity
 
 
 
