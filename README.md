@@ -10,6 +10,9 @@
 ## What is this?
 Sumobot is a sport in which two robots attempt to push each other out of a circle (from wiki). My team and I took part in this intra school Sumobot competition and achieved **3rd/4th placing** :). </br>
 
-Here's a picture of our robot! </br>
+Here's a picture of our robot! (P.S. that's its championship belt.) </br>
 <img src="Sumobot.jpg" width="400"/>
-(P.S. that's its championship belt.)
+
+
+
+
